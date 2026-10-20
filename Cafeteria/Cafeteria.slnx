@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <Project Path="Cafeteria.csproj" />
+  </Folder>
+  <Project Path="../Datos/Datos.csproj" Id="deae5e48-9566-4cda-b32c-262dd2b30f4c" />
+  <Project Path="../Interfaz_Grafica(UI)/Interfaz_Grafica(UI).csproj" Id="ca1809d5-10a8-4716-a04f-c2d37d01f232" />
+  <Project Path="../Negocio/Negocio.csproj" Id="71e253ec-8e81-4455-ae41-efef0e00d41c" />
+  <Project Path="../Objetos/Entidad.csproj" Id="8b392b4f-c694-4a24-9a06-d33186ad4b72" />
+</Solution>

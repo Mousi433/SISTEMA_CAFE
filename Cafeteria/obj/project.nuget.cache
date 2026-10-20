@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lH639p0D1XY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mouseth Ariel Juarez\\source\\repos\\Cafeteria\\Cafeteria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mouseth Ariel Juarez\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.8\\guna.ui2.winforms.2.0.4.8.nupkg.sha512",
+    "C:\\Users\\Mouseth Ariel Juarez\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mouseth Ariel Juarez\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
